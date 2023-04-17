@@ -1,0 +1,19 @@
+.logo {
+   
+}
+
+.menu {
+   display: flex;
+   gap: 20px;
+   flex-wrap: wrap;
+   justify-content: center;
+
+   a {
+      background: #FFFFFF;
+      padding: 15px 30px;
+      border-radius: 4px;
+      color: #000000;
+      text-transform: uppercase;
+      font-weight: 500;
+   }
+}
